@@ -1,3 +1,16 @@
+## Required
+- Java 8 or greater
+- Maven
+
+## Compilation 
+- run command : mvn clean test-compile
+
+## Execution
+- run command : mvn exec:java -Dexec.mainClass="apicalis.Tests_ProB" -Dexec.classpathScope=test
+
+## Automatic run to reproduce experiments
+- run script : test.sh (chmod +x test.sh ; /test.sh)
+
 ## License
 
 This project is licensed under the [Eclipse Public License v1.0 (EPL-1.0)](https://www.eclipse.org/legal/epl-v10.html), in line with the license of the ProB model checker.
