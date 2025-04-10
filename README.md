@@ -3,13 +3,13 @@
 - Maven
 
 ## Compilation 
-- run command : mvn clean test-compile
+> run command : mvn clean test-compile
 
 ## Execution
-- run command : mvn exec:java -Dexec.mainClass="apicalis.Tests_ProB" -Dexec.classpathScope=test
+> run command : mvn exec:java -Dexec.mainClass="apicalis.Tests_ProB" -Dexec.classpathScope=test
 
 ## Automatic run to reproduce experiments
-- run script : test.sh (chmod +x test.sh ; ./test.sh)
+> run script : test.sh (chmod +x test.sh ; ./test.sh)
 
 ## License
 
