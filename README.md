@@ -21,4 +21,4 @@ BibTeX:
   publisher = {Springer},
   note      = {To appear}
 }
-...
+
