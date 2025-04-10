@@ -8,7 +8,7 @@ Contact: akram.idani@univ-grenoble-alpes.fr, aurelien.pepin@grenoble-inp.org, ma
 
 If you use this code in your academic work, please cite the following publication:
 
-> _[Titre de l’article, etc.]_
+> A. Idani and A. Pepin and M. Triki., Insider Threat Simulation Through Ant Colonies and ProB. Proceedings of the 11th International Conference on Rigorous State-Based Methods (ABZ 2025). Springer, LNCS (to appear).
 
 BibTeX:
 ```bibtex
