@@ -12,7 +12,7 @@ If you use this code in your academic work, please cite the following publicatio
 
 BibTeX:
 ```bibtex
-@inproceedings{IdaniPT25,
+@inproceedings{IdaniABZ25,
   author    = {A. Idani and A. Pepin and M. Triki},
   title     = {Insider Threat Simulation Through Ant Colonies and ProB},
   booktitle = {Proceedings of the 11th International Conference on Rigorous State-Based Methods (ABZ 2025)},
